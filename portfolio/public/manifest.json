@@ -1,0 +1,53 @@
+{
+    "name": "Ahmet Tayyip Şahin - Fullstack Developer",
+    "short_name": "Ahmet Tayyip Şahin",
+    "description": "Ahmet Tayyip Şahin'in portfolyo ve özgeçmiş sitesi. Mobil uygulama, web servis ve otomasyon çözümleri geliştiren Fullstack Developer.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#5865f2",
+    "icons": [
+      {
+        "src": "/logo.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "orientation": "portrait",
+    "lang": "tr-TR",
+    "dir": "ltr",
+    "categories": [
+      "portfolio",
+      "developer",
+      "resume",
+      "cv",
+      "software",
+      "fullstack",
+      "mobile",
+      "web"
+    ],
+    "screenshots": [
+      {
+        "src": "/logo.png",
+        "sizes": "1280x720",
+        "type": "image/png",
+        "platform": "wide",
+        "label": "Ana Sayfa"
+      },
+      {
+        "src": "/logo.png",
+        "sizes": "1280x720",
+        "type": "image/png",
+        "platform": "wide",
+        "label": "Projeler"
+      }
+    ]
+  }
+  

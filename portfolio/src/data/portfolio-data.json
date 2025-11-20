@@ -1,0 +1,240 @@
+{
+  "basics": {
+    "tr": {
+      "name": "Ahmet Tayyip Şahin",
+      "label": "Full-Stack Geliştirici",
+      "image": "ats.jpeg",
+      "email": "ahmettayyip56@gmail.com",
+      "phone": "+90 552 395 9982",
+      "summary": "Mobil uygulama, web servis ve yapay zeka geliştirme alanlarında uzmanlaşmış bir fullstack developerım. React Native, Node.js ve Laravel teknolojileriyle çeşitli projeler geliştirdim. TEKNOFEST finalistliklerim ile farklı alanlarda inovatif projelerde yer aldım.",
+      "bio": "Samsun'da yaşıyorum ve Hitit Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. 2017 yılından beri yazılımla ilgileniyor, proje geliştirmeyi, problem çözmeyi ve yeni teknolojileri öğrenmeyi seviyorum. TEKNOFEST projeleri ve girişimcilik odaklı geliştirmelerle aktif olarak yazılım dünyasında yer alıyorum."
+    },
+    "en": {
+      "name": "Ahmet Tayyip Şahin",
+      "label": "Full-Stack Developer",
+      "image": "ats.jpeg",
+      "email": "ahmettayyip56@gmail.com",
+      "phone": "+90 552 395 9982",
+      "summary": "I am a fullstack developer specialized in mobile application, web service, and artificial intelligence development. I have built various projects mainly using React Native, Node.js, and Laravel. As a TEKNOFEST finalist, I have been involved in innovative projects across different fields.",
+      "bio": "I live in Samsun and I am a Computer Engineering student at Hitit University. I have been involved in software development since 2017. I enjoy building projects, solving problems, and learning new technologies. I actively take part in the software ecosystem with TEKNOFEST projects and entrepreneurship-oriented developments."
+    },
+    "location": {
+      "address": "Vezirköprü",
+      "postalCode": "55900",
+      "city": "Samsun",
+      "region": "Türkiye"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "atss0",
+        "url": "https://github.com/atss0"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ahmettayyipsahin",
+        "url": "https://linkedin.com/in/ahmettayyipsahin"
+      }
+    ]
+  },
+  "work": [
+    {
+      "tr": {
+        "company": "Gristek",
+        "position": "Web & Mobil Geliştirici",
+        "website": "https://gristek.com",
+        "startDate": "2024 Kasım",
+        "endDate": "2025 Nisan",
+        "totalMonths": 6,
+        "summary": "Web ve mobil uygulama geliştirme, PLC programlama ve pano montaj süreçlerinde aktif rol aldım. Şirketin dijital dönüşümüne katkı sağlayacak projeler geliştirdim. Hem yazılım hem de donanım tarafında çeşitli çözümler üreterek sürece değer kattım.",
+        "highlights": [
+          "Web sitesi geliştirdim ve yayına aldım.",
+          "Mobil uygulama geliştirdim.",
+          "PLC programlama ve devreye alma süreçlerinde görev aldım.",
+          "Elektrik panosu topladım ve montaj işlemlerini gerçekleştirdim.",
+          "Hem yazılım hem donanım tarafında çözüm odaklı çalışmalar yaptım."
+        ]
+      },
+      "en": {
+        "company": "Gristek",
+        "position": "Web & Mobile Developer",
+        "website": "https://gristek.com",
+        "startDate": "2024 November",
+        "endDate": "2025 April",
+        "totalMonths": 6,
+        "summary": "I took an active role in web and mobile application development, PLC programming, and panel assembly processes. I developed projects that contributed to the company's digital transformation. I produced solutions in both software and hardware fields, adding value to the process.",
+        "highlights": [
+          "Developed and deployed a company website.",
+          "Developed a mobile application.",
+          "Took part in PLC programming and commissioning processes.",
+          "Assembled and installed electrical panels.",
+          "Worked on both software and hardware solutions with a problem-solving approach."
+        ]
+      },
+      "technologies": [
+        "React",
+        "React Native",
+        "Laravel",
+        "Siemens PLC (TIA Portal)",
+        "REST API",
+        "Git / Github"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "tr": {
+        "institution": "Hitit Üniversitesi",
+        "area": "Bilgisayar Mühendisliği",
+        "studyType": "Lisans",
+        "startDate": "2021 Eylül",
+        "endDate": "Devam Ediyor",
+        "gpa": "2.85"
+      },
+      "en": {
+        "institution": "Hitit University",
+        "area": "Computer Engineering",
+        "studyType": "Bachelor's Degree",
+        "startDate": "2021 September",
+        "endDate": "Present",
+        "gpa": "2.85"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": {
+        "tr": "Frontend",
+        "en": "Frontend"
+      },
+      "keywords": [
+        "React",
+        "React Native",
+        "TypeScript",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": {
+        "tr": "Backend",
+        "en": "Backend"
+      },
+      "keywords": [
+        "Laravel",
+        "Node.js",
+        "Express",
+        "NestJS",
+        "REST API",
+        "Firebase"
+      ]
+    },
+    {
+      "name": {
+        "tr": "Veritabanı",
+        "en": "Database"
+      },
+      "keywords": [
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL",
+        "Redis"
+      ]
+    },
+    {
+      "name": {
+        "tr": "DevOps",
+        "en": "DevOps"
+      },
+      "keywords": [
+        "Docker",
+        "Git"
+      ]
+    },
+    {
+      "name": {
+        "tr": "Araçlar",
+        "en": "Tools"
+      },
+      "keywords": [
+        "VS Code",
+        "Webpack",
+        "Figma"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": {
+        "tr": "OWLY - İngilizce Kelime Quizi ",
+        "en": "OWLY - English Vocabulary Quiz"
+      },
+      "description": {
+        "tr": "Kullanıcıların İngilizce kelime bilgilerini geliştirmelerine yardımcı olan bir web uygulaması.",
+        "en": "A web application that helps users improve their English vocabulary."
+      },
+      "highlights": {
+        "tr": [
+          "Responsive tasarım",
+          "Kullanıcı dostu arayüz",
+          "Gerçek zamanlı istatistikler"
+        ],
+        "en": [
+          "Responsive design",
+          "User-friendly interface",
+          "Real-time statistics"
+        ]
+      },
+      "technologies": [
+        "React",
+        "Firebase",
+        "Tailwind CSS",
+        "Vite",
+        "Git / Github"
+      ],
+      "url": "https://owly.com.tr",
+      "githubUrl": "https://github.com/atss0/english-quiz",
+      "image": "https://owly.com.tr/owly-logo.svg"
+    },
+    {
+      "name": {
+        "tr": "Sınav Görev Bildir",
+        "en": "Sınav Görev Bildir"
+      },
+      "description": {
+        "tr": "Sınav Görev Bildir, öğretmenlerin sınav görev duyurularını takip edebileceği ve görev başvurularını kaçırmamaları için bildirim alabileceği bir mobil uygulamadır. Ayrıca kullanıcılar, aldıkları görevleri kaydederek toplam kazançlarını görüntüleyebilir.",
+        "en": "Sınav Görev Bildir is a mobile application that helps teachers track exam duty announcements and get notifications to avoid missing application deadlines. Users can also record their assigned duties and view their total earnings within the app."
+      },
+      "highlights": {
+        "tr": [
+          "Sınav görev duyuruları için bildirim sistemi geliştirildi.",
+          "Kullanıcılar görevlerini ve kazançlarını takip edebiliyor.",
+          "Görev listesi ve toplam gelir hesaplama özelliği eklendi.",
+          "Basit ve kullanıcı dostu arayüz tasarlandı.",
+          "Offline veri kaydetme desteği sağlandı."
+        ],
+        "en": [
+          "Developed notification system for exam duty announcements.",
+          "Users can track their exam duties and earnings.",
+          "Implemented task list and total income calculation feature.",
+          "Designed a simple and user-friendly interface.",
+          "Provided offline data saving support."
+        ]
+      },
+      "technologies": [
+        "React Native",
+        "Laravel",
+        "Firebase",
+        "MySQL",
+        "REST API",
+        "Git / Github"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.zeymus.sinavbildir",
+      "githubUrl": "",
+      "image": "https://play-lh.googleusercontent.com/4TKdxo3SsmdLKnMNB1xmKHhK6xGwuVLhJmmp5Q7Zk-eR8xb0QDaLDQetSF27wKNaPoM=w240-h480-rw"
+    }
+  ]
+}
